@@ -72,6 +72,7 @@ npm-debug.log*
 yarn-error.log*
 .ng_pkg_build/
 yarn.lock
+package-lock.json
 
 # Mac OSX Finder files.
 **/.DS_Store

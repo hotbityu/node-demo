@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/hotbityu/node-demo.git"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.2"
   }
 }
