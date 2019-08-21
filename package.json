@@ -16,6 +16,7 @@
     "url": "https://github.com/hotbityu/node-demo.git"
   },
   "dependencies": {
+    "@types/node": "^12.7.2",
     "rxjs": "^6.5.2"
   }
 }
